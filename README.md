@@ -25,4 +25,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/dalastra/dalastra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dalastra/dalastra/blob/output/github-contribution-grid-snake-dark.svg)
