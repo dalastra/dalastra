@@ -1,4 +1,4 @@
-## Olá, eu sou o Dalastra! 🧠
+## Olá, eu sou o Dalastra! 🧠👨‍💻
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dalastra&show_icons=true&theme=dark"/>
