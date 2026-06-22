@@ -1,7 +1,4 @@
 # Olá, eu sou o Dalastra! 🧠👨‍💻
-<p>Cursando o terceiro ano do ensino médio | SESI-SP
-Cursando o último semestre em Técnico de Desenvolvimento de Sistemas | SENAI-SP</p>
-
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dalastra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
