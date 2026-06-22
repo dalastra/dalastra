@@ -16,6 +16,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="50"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="50"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg" height="40" width="50"/>
+</p>
 </p>
 
 ---
